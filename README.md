@@ -1,1 +1,1 @@
-An automatic timetable scheduler for UTSC
+An automatic timetable scheduler for UofT
