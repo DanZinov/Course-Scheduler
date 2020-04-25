@@ -1,2 +1,1 @@
-# Course-Scheduler
-This program creates a schedule for UofT courses.
+An automatic timetable scheduler for UTSC
